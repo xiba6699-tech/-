@@ -1,0 +1,21 @@
+{
+  "name": "超级大乐透 AI 选号",
+  "short_name": "大乐透AI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#7c3aed",
+  "description": "AI 驱动的超级大乐透选号助手",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1066/1066373.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1066/1066373.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
